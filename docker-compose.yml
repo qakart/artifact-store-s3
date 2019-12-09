@@ -6,7 +6,7 @@ networks:
 
 services:
   artifact-store-s3:
-    build: .
+    image: tokarthik/artifact-store-s3
     ports:
     - 4000:4000
     exposed:
