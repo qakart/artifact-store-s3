@@ -20,7 +20,7 @@
   "author": "Luís Mendes",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.353.0",
+    "aws-sdk": "^2.814.0",
     "eslint": "^5.9.0",
     "eslint-config-mourner": "2.0.3",
     "express": "4.16.2",
